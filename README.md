@@ -26,6 +26,5 @@
 
 <h2>Contact Us</h2>
 
-<p>If you have any questions or concerns about this Privacy Policy, please contact us at [your contact information].</p>
+<p>If you have any questions or concerns about this Privacy Policy, please contact us at [mercatoincloud@gmail.com].</p>
 
-<p>This Privacy Policy was generated using [Privacy Policy Generator](https://www.example.com).</p>
